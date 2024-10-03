@@ -7,3 +7,6 @@
 [submodule "code/data"]
 	path = code/data
 	url = https://github.com/BreadstickoSaurus/data.git
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/BreadstickoSaurus/documentation.git
