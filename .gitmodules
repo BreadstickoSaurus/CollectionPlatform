@@ -4,3 +4,6 @@
 [submodule "code/frontend"]
 	path = code/frontend
 	url = https://github.com/BreadstickoSaurus/frontend.git
+[submodule "code/data"]
+	path = code/data
+	url = https://github.com/BreadstickoSaurus/data.git
