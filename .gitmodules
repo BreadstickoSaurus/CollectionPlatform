@@ -10,3 +10,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/BreadstickoSaurus/documentation.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/BreadstickoSaurus/docker.git
